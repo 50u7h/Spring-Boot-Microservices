@@ -1,6 +1,7 @@
 package org.food.ordering.system.domain.entity;
 
 import java.util.Objects;
+import java.util.UUID;
 
 public abstract class BaseEntity<Id> {
     public Id id;
