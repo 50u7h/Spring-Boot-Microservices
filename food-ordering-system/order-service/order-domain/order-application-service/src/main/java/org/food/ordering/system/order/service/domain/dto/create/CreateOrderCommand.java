@@ -4,7 +4,6 @@ import jakarta.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
-import org.food.ordering.system.order.service.domain.entity.OrderItem;
 
 import java.math.BigDecimal;
 import java.util.List;
@@ -25,7 +24,7 @@ public class CreateOrderCommand {
     @NotNull
     private final OrderAddress address;
 
-    public List<org.food.ordering.system.order.service.domain.dto.create.OrderItem> getItems() {
+    public List<OrderItem> getItems() {
         // TODO Auto-generated method stub
         return null;
     }
