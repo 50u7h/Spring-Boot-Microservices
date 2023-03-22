@@ -66,4 +66,12 @@ public class OrderDataMapper {
                 .orderStatus(order.getOrderStatus())
                 .build();
     }
+
+    public TrackOrderResponse orderToTrackOrderResponse(Order order) {
+        return TrackOrderResponse.builder()
+                .orderTrackingId(order.getTrackingId().getValue())
+                .orderStatus(order.getOrderStatus())
+                .failureMessages(order.getFailureMessages())
+                .build();
+    }
 }
