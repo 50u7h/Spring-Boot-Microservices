@@ -40,7 +40,6 @@ public class OrderDataMapper {
 
     private List<OrderItem> orderItemsToOrderItemEntities(
             List<org.food.ordering.system.order.service.domain.dto.create.OrderItem> orderItems) {
-
         return orderItems.stream()
                 .map(orderItem ->
                         OrderItem.builder()
