@@ -6,6 +6,7 @@ import lombok.Builder;
 import lombok.Getter;
 
 import java.math.BigDecimal;
+import java.util.Collection;
 import java.util.List;
 import java.util.UUID;
 
@@ -24,8 +25,4 @@ public class CreateOrderCommand {
     @NotNull
     private final OrderAddress address;
 
-    public List<OrderItem> getItems() {
-        // TODO Auto-generated method stub
-        return null;
-    }
 }
