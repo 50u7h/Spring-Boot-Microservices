@@ -1,7 +1,6 @@
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\org\food\ordering\system\kafka\order\avro\model\PaymentRequestAvroModel.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\org\food\ordering\system\kafka\order\avro\model\OrderApprovalStatus.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\org\food\ordering\system\kafka\order\avro\model\Product.java
-C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\org\food\ordering\system\Main.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\org\food\ordering\system\kafka\order\avro\model\RestaurantOrderStatus.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\org\food\ordering\system\kafka\order\avro\model\PaymentStatus.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\infrastructure\kafka\kafka-model\src\main\java\org\food\ordering\system\kafka\order\avro\model\RestaurantApprovalRequestAvroModel.java
