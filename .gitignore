@@ -1,3 +1,17 @@
 food-ordering-system/infrastructure/docker-compose/volumes/
 food-ordering-system/restaurant-service/restaurant-domain/restaurant-application-service/target/classes/org/food/ordering/system/restaurant/service/domain/RestaurantApprovalRequestMessageListenerImpl.class
 food-ordering-system/restaurant-service/restaurant-domain/restaurant-application-service/target/classes/org/food/ordering/system/restaurant/service/domain/ports/output/repository/RestaurantRepository.class
+food-ordering-system/customer-service/target/customer-service-1.0-SNAPSHOT.jar
+food-ordering-system/customer-service/target/customer-service-1.0-SNAPSHOT.jar.original
+food-ordering-system/payment-service/payment-container/target/payment-container-1.0-SNAPSHOT.jar
+food-ordering-system/payment-service/payment-container/target/payment-container-1.0-SNAPSHOT.jar.original
+food-ordering-system/payment-service/payment-dataaccess/target/payment-dataaccess-1.0-SNAPSHOT.jar
+food-ordering-system/payment-service/payment-domain/payment-application-service/target/payment-application-service-1.0-SNAPSHOT.jar
+food-ordering-system/payment-service/payment-domain/payment-domain-core/target/payment-domain-core-1.0-SNAPSHOT.jar
+food-ordering-system/payment-service/payment-messaging/target/payment-messaging-1.0-SNAPSHOT.jar
+food-ordering-system/restaurant-service/restaurant-container/target/restaurant-container-1.0-SNAPSHOT.jar
+food-ordering-system/restaurant-service/restaurant-container/target/restaurant-container-1.0-SNAPSHOT.jar.original
+food-ordering-system/restaurant-service/restaurant-dataaccess/target/restaurant-dataaccess-1.0-SNAPSHOT.jar
+food-ordering-system/restaurant-service/restaurant-domain/restaurant-application-service/target/restaurant-application-service-1.0-SNAPSHOT.jar
+food-ordering-system/restaurant-service/restaurant-domain/restaurant-domain-core/target/restaurant-domain-core-1.0-SNAPSHOT.jar
+food-ordering-system/restaurant-service/restaurant-messaging/target/restaurant-messaging-1.0-SNAPSHOT.jar

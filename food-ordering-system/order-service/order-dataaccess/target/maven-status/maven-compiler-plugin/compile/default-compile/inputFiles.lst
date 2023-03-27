@@ -2,7 +2,6 @@ C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\orde
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\restaurant\adapter\RestaurantRepositoryImpl.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\order\adapter\OrderRepositoryImpl.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\restaurant\mapper\RestaurantDataAccessMapper.java
-C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\restaurant\repository\RestaurantJpaRepository.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\order\entity\OrderEntity.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\order\entity\OrderItemEntityId.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\order\mapper\OrderDataAccessMapper.java
@@ -11,7 +10,4 @@ C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\orde
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\customer\adapter\CustomerRepositoryImpl.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\customer\repository\CustomerJpaRepository.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\order\entity\OrderAddressEntity.java
-C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\restaurant\entity\RestaurantEntity.java
-C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\restaurant\entity\RestaurantEntityId.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\order\entity\OrderItemEntity.java
-C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\order-service\order-dataaccess\src\main\java\org\food\ordering\system\order\service\dataaccess\restaurant\exception\RestaurantDataAccessException.java

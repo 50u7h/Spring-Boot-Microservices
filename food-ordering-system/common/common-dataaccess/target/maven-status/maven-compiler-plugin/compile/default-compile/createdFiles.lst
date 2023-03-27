@@ -1,0 +1,6 @@
+org\food\ordering\system\dataaccess\restaurant\repository\RestaurantJpaRepository.class
+org\food\ordering\system\dataaccess\restaurant\entity\RestaurantEntity$RestaurantEntityBuilder.class
+org\food\ordering\system\dataaccess\restaurant\entity\RestaurantEntityId$RestaurantEntityIdBuilder.class
+org\food\ordering\system\dataaccess\restaurant\entity\RestaurantEntityId.class
+org\food\ordering\system\dataaccess\restaurant\exception\RestaurantDataAccessException.class
+org\food\ordering\system\dataaccess\restaurant\entity\RestaurantEntity.class

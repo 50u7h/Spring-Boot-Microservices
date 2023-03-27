@@ -1,0 +1,6 @@
+org\food\ordering\system\restaurant\service\dataaccess\restaurant\entity\OrderApprovalEntity$OrderApprovalEntityBuilder.class
+org\food\ordering\system\restaurant\service\dataaccess\restaurant\adapter\OrderApprovalRepositoryImpl.class
+org\food\ordering\system\restaurant\service\dataaccess\restaurant\repository\OrderApprovalJpaRepository.class
+org\food\ordering\system\restaurant\service\dataaccess\restaurant\entity\OrderApprovalEntity.class
+org\food\ordering\system\restaurant\service\dataaccess\restaurant\mapper\RestaurantDataAccessMapper.class
+org\food\ordering\system\restaurant\service\dataaccess\restaurant\adapter\RestaurantRepositoryImpl.class
