@@ -1,1 +1,3 @@
 food-ordering-system/infrastructure/docker-compose/volumes/
+food-ordering-system/restaurant-service/restaurant-domain/restaurant-application-service/target/classes/org/food/ordering/system/restaurant/service/domain/RestaurantApprovalRequestMessageListenerImpl.class
+food-ordering-system/restaurant-service/restaurant-domain/restaurant-application-service/target/classes/org/food/ordering/system/restaurant/service/domain/ports/output/repository/RestaurantRepository.class
