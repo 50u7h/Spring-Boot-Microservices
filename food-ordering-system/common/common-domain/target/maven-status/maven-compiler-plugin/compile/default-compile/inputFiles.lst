@@ -8,6 +8,7 @@ C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\comm
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\common\common-domain\src\main\java\org\food\ordering\system\domain\valueobject\BaseId.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\common\common-domain\src\main\java\org\food\ordering\system\domain\valueobject\OrderStatus.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\common\common-domain\src\main\java\org\food\ordering\system\domain\valueobject\ProductId.java
+C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\common\common-domain\src\main\java\org\food\ordering\system\domain\event\EmptyEvent.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\common\common-domain\src\main\java\org\food\ordering\system\domain\valueobject\Money.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\common\common-domain\src\main\java\org\food\ordering\system\domain\valueobject\RestaurantId.java
 C:\Users\GUNEY\Documents\Git\Spring-Boot-Microservices\food-ordering-system\common\common-domain\src\main\java\org\food\ordering\system\domain\exception\DomainException.java
